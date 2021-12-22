@@ -1,0 +1,29 @@
+ body {
+    background-color: gold;
+    color: rgb(82, 74, 74);
+    text-align: center;
+}
+
+#fundo_texta {
+    background-color: black;
+}
+
+.hide {
+    display: none;
+}
+
+#a{
+    text-decoration: none;
+}
+
+.tamanho{
+    height: 250px;
+    width: 60%;
+}
+
+@media (max-width: 600px){
+  .tamanho {
+      height: 200px;
+      width: 70%;
+  }  
+}
