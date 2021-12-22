@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+.float {
+float: left;
+}
+
 #fundo_texta {
     background-color: black;
 }
